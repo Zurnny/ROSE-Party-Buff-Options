@@ -1,8 +1,8 @@
 ; Update list for Party Buff Options. Upload this next to mod.ini and the files folder.
-version=1.1
-88786bb1f6fb0960c6bdc590f0366cf8f5c5ef0e|mod.ini
+version=1.2
+0b3ed6764e6d8f2f1ffe50529cb52684abaa8629|mod.ini
 1ddc5b1f933a5623a1f4c3e7d952157983009708|files/Data/ui/sp_addons/party_buffs.txt
 7cf0602f7818afe465b8e3496270217a9d6b8ec3|files/Data/ui/themes/rose/game/arena_group.html
-59c360ee044c1671671e8a5ff016e57c61a38a94|files/Data/ui/themes/rose/game/options_bgfx.html
+8401094a996e2e0430ccdbfeab1073aaa3729190|files/Data/ui/themes/rose/game/options_bgfx.html
 5059937ef95151e4d18daa5667d977468f310ed3|files/Data/ui/themes/rose/game/party.html
 7d3cb78c81c59f70b2008e80f81d4ffa84d482c2|files/Data/ui/themes/rose/game/party_options.html
